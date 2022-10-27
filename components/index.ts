@@ -1,0 +1,10 @@
+export { About } from './About';
+export { BackgroundCircles } from './BackgroundCircles';
+export { Contact } from './Contact';
+export { WorkExperience } from './WorkExperience';
+export { ExperienceCard } from './ExperienceCard';
+export { Header } from './Header';
+export { Hero } from './Hero';
+export { Projects } from './Projects';
+export { Skill } from './Skill';
+export { Skills } from './Skills';
